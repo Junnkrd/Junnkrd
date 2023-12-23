@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeverton</h1>
 
-- 🌱 I’m currently learning and working with Flutter
+- 🌱 I’m currently learning and working with Flutter, C# and .Net 7
+
 - ⚡ Fun fact, a lover of RTS and MMO games; - You said Warcraft????
 
 <h3 align="left">Connect with me:</h3>
