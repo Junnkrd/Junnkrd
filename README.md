@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeverton</h1>
 
-- 🌱 I’m currently working with **Flutter**, **C#**, **.NET**, and exploring **PostgreSQL**, **Docker**, and **Kubernetes** for scalable backend solutions.
+- 🌱 I’m currently working with **Flutter**, **C#**, **.NET**, **PostgreSQL** and exploring  **Docker**, and **Kubernetes** for scalable backend solutions.
 - ⚡ Fun fact: I'm a lover of RTS and MMO games; - You said Warcraft???
 
 <h3 align="left">Languages and Tools:</h3>
